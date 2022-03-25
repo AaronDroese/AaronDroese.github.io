@@ -69,6 +69,8 @@ h2 {
 }
 
 footer {
-    top: 1500px;
+    top: 1250px;
     background-color: rgb(180,180,180);
+    position: absolute;
+    text-align: center;
 }
